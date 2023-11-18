@@ -4,7 +4,7 @@
 
 This project demostrate how to serve a static website from localhost using Docker and Nginx. In today's digital age, web development and testing are integral parts of building successful online experiences. However, setting up a development environment to locally serve web content can be complex and resource-intensive.
 
- We aim to streamline the process by leveraging Docker, a powerful containerization tool, to create a local HTTP server. With this setup, developers can effortlessly serve and test their static websites as if they were live on the internet, all on their local machines. This not only enhances development efficiency but also ensures accurate testing before deploying to production.
+I aim to streamline the process by leveraging Docker, a powerful containerization tool, to create a local HTTP server. With this setup, developers can effortlessly serve and test their static websites as if they were live on the internet, all on their local machines. This not only enhances development efficiency but also ensures accurate testing before deploying to production.
 
 <img src="https://blog.harveydelaney.com/content/images/size/w2000/2018/03/nginx-docker.png" alt="Docker and Nginx" style="display: block; margin: 0 auto; max-width: px;">
  
